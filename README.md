@@ -5,7 +5,7 @@
 <img src="https://64.media.tumblr.com/8dd929363ed57df8626cdbbe3dccf861/c74de60fc71203bc-e4/s75x75_c1/fa5e66dfa96a969df80646a7f141181ade513a11.gifv"/>
 </p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/744297980298788905/1222770343194660887/7lthjw.gif?ex=66176c9f&is=6604f79f&hm=be9b2337418963f21e1986770a6be51aaf1638ba76943c975e16e757251cd75e&" width="600" height="238" border="10"/>
+<img src="https://files.catbox.moe/7lthjw.gif" width="600" height="238" border="10"/>
 </p>
 
 <p align="center">
